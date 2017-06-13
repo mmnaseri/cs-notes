@@ -5,7 +5,8 @@ In this repository, I am sharing my notes on the various subjects I studied for 
 
 For more on this, see [my blog entry on the topic](http://blog.mmnaseri.com/2017/05/27/average-to-googler-in-four-weeks-a-study-plan/).
 
-A few notes:
+A Few Notes
+-----------
 
 * I have annotated all my notes with dates, the breadth of their coverage, and their length. There are discrepancies between the dates in my notes and those found in my earlier post about my plan. The plan is the point of reference. The dates are indicative of the first moment I touched a pen to the paper for a particular topic, to the moment I turned the page to start on the next. This is particularly evident on my CLRS notes, which I started taking a year before I went in for the interview. I used the date as a motivator for myself to avoid taking too long.
 * I have reviewed my notes many times. That doesn't mean that they are error-free. If you see any errors, please point them out to me. Commenting on this post works, opening a GitHub issue works, emailing me, and other venues of contact also work.
@@ -16,7 +17,10 @@ A few notes:
 * I was somewhat careless with my notes and stained a part of it with tea. That's where the smudges come from.
 * I have inter-book references in my notes, which I have usually stylized as "see CLRS(20)", which means go and check the notes for CLRS, page 20.
 
-So, with all those notes out of the way, let's talk about the actual note. The GitHub repository containing the notes contains several folders, each of which contain the files for a particular book.
+Organization
+------------
+
+So, with all those notes out of the way, let's talk about the actual note. This repository contains several folders, each of which contain the files for a particular book.
 
 Each folder is organized as such:
 
@@ -25,3 +29,13 @@ Each folder is organized as such:
   * `jpeg`: a folder containing the JPEG documents of the notes in their scanned form
   * `pdf`: a folder which contains a single file (`session.pdf`) that is the result of concatenating all the original JPEG files.
 * `bound.pdf`: a single PDF document which contains the enhanced, cropped, paginated, and anti-aliased version of the notes I have scanned. This is most likely what you want to download.
+
+Feedback and Comments
+---------------------
+
+Feedback and comments are more than welcome. Feel free to drop a comment on my blog, email me, or open an issue here.
+
+Contributing
+------------
+
+If you want to contribute, download the files, make modifications (or add your own files), open a pull request, and I will approve. Just remember that what you send upstream must be legible and useful for others.
